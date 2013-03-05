@@ -19,6 +19,14 @@ typedef struct {
  */
 void xhr_afficher_monome(monome m);
 
+/**
+ * Fonction permettant d'additionner deux monomes
+ * ------------------------------------------------------------------------
+ *
+ * @param a <monome> un monome
+ * @param b <monome> un monome
+ */
+monome xhr_additionner_monomes(monome a, monome b);
 
 /**
  * Fonction permettant de multiplier deux monomes
