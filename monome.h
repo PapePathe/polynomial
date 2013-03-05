@@ -1,4 +1,5 @@
 #ifndef MONOME_H_INCLUDED
+
 #define MONOME_H_INCLUDED
 
 /**
@@ -15,13 +16,15 @@ typedef struct {
 /**
  * Fonction permettant d'afficher un monome
  *
- * @author Papa Pathe SENE
- *
- * @param  m une structure de type monome
- * @return void
- *
  */
 void xhr_afficher_monome(monome m);
+
+
+/**
+ * Fonction permettant de multiplier deux monomes
+ *
+ */
+monome xhr_multiplier_monomes(monome a, monome b);
 
 
 #endif // MONOME_H_INCLUDED

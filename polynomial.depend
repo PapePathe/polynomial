@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1362521621 source:/home/xaragne/polynomial/polynomial/main.c
+1362523782 source:/home/xaragne/polynomial/polynomial/main.c
 	<stdio.h>
 	<stdlib.h>
 	"monome.h"
 
-1362521309 /home/xaragne/polynomial/polynomial/monome.h
+1362523325 /home/xaragne/polynomial/polynomial/monome.h
 
-1362521741 source:/home/xaragne/polynomial/polynomial/monome.c
+1362523720 source:/home/xaragne/polynomial/polynomial/monome.c
 	"monome.h"
 
