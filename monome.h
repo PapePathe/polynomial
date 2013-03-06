@@ -25,6 +25,7 @@ void xhr_afficher_monome(monome m);
  *
  * @param a <monome> un monome
  * @param b <monome> un monome
+ * @return monomes
  */
 monome xhr_additionner_monomes(monome a, monome b);
 
